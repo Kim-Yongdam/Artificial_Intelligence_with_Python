@@ -1,0 +1,1 @@
+--input-string "Artificial Intelligence" --initial-state ''
